@@ -26,11 +26,11 @@
   ```
   sample폴더
    ┗ html폴더
-      ┗ sample.html
+  	┗ sample.html
    ┗ js폴더
-   	┗ sample.js
-   	┗ jquery.validate.min.js
-   	┗ additional-methods.min.js
+  	┗ sample.js
+  	┗ jquery.validate.min.js
+  	┗ additional-methods.min.js
   ```
 
 * **sample.html**
