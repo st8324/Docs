@@ -26,7 +26,7 @@
   
 
   ```mermaid
-  graph LR;
+  graph TD;
       sample폴더-->html폴더;
       sample폴더-->js폴더;
       html폴더-->sample.html
