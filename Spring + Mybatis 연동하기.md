@@ -6,7 +6,7 @@
 * [Mysql 다운로드 링크](https://dev.mysql.com/downloads/installer/)
 * 5.7버전 설치를 위해 아래 그림의 빨간 박스를 클릭하여 다운로드
 
-![mysql](../imgs/mybatis/mysqinstall.png)
+![mysql](./imgs/mybatis/mysql5.7_install.png)
 
 * mysql 설치 시 root 계정 이외에 다른 계정 하나 생성
 
@@ -62,7 +62,7 @@
    * root-context.xml 파일을 열어 namespace 탭 클릭
    * aop, beans, context, jdbc, mybatis-spring 선택 후 저장
 
-![](imgs\mybatis\root-context_namespace.png)
+![](./imgs/mybatis/root-context_namespace.png)
 
 2. mysql 정보 추가
 
