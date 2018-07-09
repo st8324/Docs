@@ -23,20 +23,14 @@
 
 * **프로젝트 폴더 구조**
 
-  
-
-  ```mermaid
-  graph LR;
-      sample폴더-->html폴더;
-      sample폴더-->js폴더;
-      html폴더-->sample.html;
-      js폴더-->sample.js;
-      js폴더-->jquery.validate.min.js;
-      js폴더-->additional-methods.min.js;
-  
-      
-      
-      
+  ```
+  sample폴더
+   ┗ html폴더
+      ┗ sample.html
+   ┗ js폴더
+   	┗ sample.js
+   	┗ jquery.validate.min.js
+   	┗ additional-methods.min.js
   ```
 
 * **sample.html**
@@ -70,7 +64,7 @@
   </html>
   ```
 
-* sample.js
+* **sample.js**
 
   ```js
   $(function(){
@@ -152,3 +146,4 @@
   ```
 
   
+
