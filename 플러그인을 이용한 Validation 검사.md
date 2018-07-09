@@ -26,7 +26,6 @@
   
 
   ```mermaid
-  {% mermaid %}
   graph LR;
       sample폴더-->html폴더;
       sample폴더-->js폴더;
@@ -34,7 +33,7 @@
       js폴더-->sample.js;
       js폴더-->jquery.validate.min.js;
       js폴더-->additional-methods.min.js;
-  {% endmermaid %}
+  
       
       
       
